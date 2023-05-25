@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Matt
 - 👀 I’m interested in hiking and motorcycles
-- 🌱 I’m currently learning React, Typescript and PHP
+- 🌱 I’m currently learning NextJS, Typescript and Python
 - 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me ...
 
