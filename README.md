@@ -2,7 +2,7 @@
 - 👀 I’m interested in hiking and motorcycles
 - 🌱 I’m currently learning NextJS, Typescript and Python
 - 💞️ I’m looking to collaborate on web development
-- 📫 How to reach me ...
+- 📫 How to reach me 
 
 <!---
 nohyphen/nohyphen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
